@@ -6,7 +6,7 @@ The stock count of Selin's warehouse: every product, with is number.
 
 - The count lives in 'count.txt'.
 - One product per line: a name, one space, a number.
-- New products go at the end of the file.
+- Products are listed in alphebetical order.
 
 ## How to change it 
 
